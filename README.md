@@ -3,7 +3,7 @@
 
 ---
 
-:octocat: https://github.com/cogsmith/nodemon
+:octocat: https://github.com/cogsmith/docker-nodemon
 
 🐳 https://hub.docker.com/r/cogsmith/nodemon
 
