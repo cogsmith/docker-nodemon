@@ -7,7 +7,7 @@
 
 #### <code><a href='https://github.com/cogsmith/docker-nodemon'><img src='https://github.githubassets.com/images/icons/emoji/octocat.png' width='22'> [GITHUB REPO]</a></code>
 
-#### <code><a href='https://hub.docker.com/r/cogsmith/docker-nodemon'>🐳 [DOCKER IMAGE]</a></code>
+#### <code><a href='https://hub.docker.com/r/cogsmith/nodemon'>🐳 [DOCKER IMAGE]</a></code>
 
 #### <code><a href='https://github.com/cogsmith/docker-nodemon/blob/main/Dockerfile'>🧾 [VIEW DOCKERFILE SOURCE CODE]</a></code>
 
@@ -27,7 +27,7 @@
 [![](https://shields.io/github/license/cogsmith/docker-nodemon?color=lightgray)](http://github.com)
 [![](https://shields.io/github/languages/code-size/cogsmith/docker-nodemon)](http://github.com)
 [![](https://shields.io/github/repo-size/cogsmith/docker-nodemon)](http://github.com)
-[![](https://shields.io/docker/image-size/cogsmith/docker-nodemon?sort=date&label=docker+size)](http://github.com)
+[![](https://shields.io/docker/image-size/cogsmith/nodemon?sort=date&label=docker+size)](http://github.com)
 [![](https://shields.io/github/issues-raw/cogsmith/docker-nodemon)](http://github.com)
 
 ---
