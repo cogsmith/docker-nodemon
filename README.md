@@ -15,20 +15,21 @@
 
 ---
 
-[![](https://shields.io/github/package-json/v/cogsmith/docker-nodemon?label=codebase)](http://github.com)
-[![](https://shields.io/github/last-commit/cogsmith/docker-nodemon)](http://github.com)
-[![](https://github.com/cogsmith/docker-nodemon/actions/workflows/DEVKING_CHECK.yml/badge.svg)](http://github.com)
+[![](https://shields.io/github/package-json/v/cogsmith/docker-nodemon?label=codebase)](http://github.com/cogsmith/docker-nodemon)
+[![](https://shields.io/github/last-commit/cogsmith/docker-nodemon)](https://github.com/cogsmith/docker-nodemon/commits/main)
+[![](https://github.com/cogsmith/docker-nodemon/actions/workflows/DEVKING_CHECK.yml/badge.svg)](https://github.com/cogsmith/docker-nodemon/actions/workflows/DEVKING_CHECK.yml)
 
-[![](https://shields.io/github/v/release/cogsmith/docker-nodemon?label=latest+release)](http://github.com)
-[![](https://shields.io/github/release-date/cogsmith/docker-nodemon?color=blue)](http://github.com)
-[![](https://shields.io/github/commits-since/cogsmith/docker-nodemon/latest)](http://github.com)
-<!-- [![](https://shields.io/github/commit-activity/m/cogsmith/docker-nodemon)](http://github.com) -->
+[![](https://shields.io/github/v/release/cogsmith/docker-nodemon?label=latest+release)](https://github.com/cogsmith/docker-nodemon/releases)
+[![](https://shields.io/github/release-date/cogsmith/docker-nodemon?color=blue)](https://github.com/cogsmith/docker-nodemon/releases)
+[![](https://shields.io/github/commits-since/cogsmith/docker-nodemon/latest)](https://github.com/cogsmith/docker-nodemon/commits/main)
+<!-- [![](https://shields.io/github/commit-activity/m/cogsmith/docker-nodemon)](https://github.com/cogsmith/docker-nodemon/commits/main) -->
 
-[![](https://shields.io/github/license/cogsmith/docker-nodemon?color=lightgray)](http://github.com)
-[![](https://shields.io/github/languages/code-size/cogsmith/docker-nodemon)](http://github.com)
-[![](https://shields.io/github/repo-size/cogsmith/docker-nodemon)](http://github.com)
-[![](https://shields.io/docker/image-size/cogsmith/nodemon?sort=date&label=docker+size)](http://github.com)
-[![](https://shields.io/github/issues-raw/cogsmith/docker-nodemon)](http://github.com)
+[![](https://shields.io/github/license/cogsmith/docker-nodemon?color=lightgray)](https://github.com/cogsmith/docker-nodemon/blob/main/LICENSE)
+[![](https://shields.io/github/languages/code-size/cogsmith/docker-nodemon)](http://github.com/cogsmith/docker-nodemon)
+[![](https://shields.io/github/repo-size/cogsmith/docker-nodemon)](http://github.com/cogsmith/docker-nodemon)
+[![](https://shields.io/docker/image-size/cogsmith/docker-nodemon?sort=date&label=docker+size)](https://hub.docker.com/r/cogsmith/nodemon)
+[![](https://shields.io/github/issues-raw/cogsmith/docker-nodemon)](https://github.com/cogsmith/docker-nodemon/issues)
+
 
 ---
 
