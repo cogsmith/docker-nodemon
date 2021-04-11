@@ -27,7 +27,7 @@
 [![](https://shields.io/github/license/cogsmith/docker-nodemon?color=lightgray)](https://github.com/cogsmith/docker-nodemon/blob/main/LICENSE)
 [![](https://shields.io/github/languages/code-size/cogsmith/docker-nodemon)](http://github.com/cogsmith/docker-nodemon)
 [![](https://shields.io/github/repo-size/cogsmith/docker-nodemon)](http://github.com/cogsmith/docker-nodemon)
-[![](https://shields.io/docker/image-size/cogsmith/docker-nodemon?sort=date&label=docker+size)](https://hub.docker.com/r/cogsmith/nodemon)
+[![](https://shields.io/docker/image-size/cogsmith/nodemon?sort=date&label=docker+size)](https://hub.docker.com/r/cogsmith/nodemon)
 [![](https://shields.io/github/issues-raw/cogsmith/docker-nodemon)](https://github.com/cogsmith/docker-nodemon/issues)
 
 
